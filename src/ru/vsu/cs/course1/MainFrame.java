@@ -15,7 +15,7 @@ public class MainFrame extends JFrame {
     private final ChessBoardPanel boardPanel;
 
     public MainFrame() {
-        setTitle("Расстановка ферзей (Стек)");
+        setTitle("Task 3.26");
         setSize(600, 650);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
